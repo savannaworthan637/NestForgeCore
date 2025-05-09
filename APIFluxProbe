@@ -1,0 +1,22 @@
+
+---
+
+**APIFluxProbe**  
+**Description:**  
+Monitors a dynamic set of APIs for flux in latency, status code changes, and behavior drift over time.
+
+```markdown
+# APIFluxProbe - Adaptive API Monitor
+
+APIFluxProbe captures and visualizes fluctuations in API performance across multiple endpoints and timeframes.
+
+## Features
+- Drift and anomaly alerting  
+- Latency curve tracking  
+- CSV / JSON export
+
+## Usage
+```bash
+git clone https://github.com/your-username/APIFluxProbe.git
+cd APIFluxProbe
+python monitor.py
