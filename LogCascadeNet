@@ -1,0 +1,22 @@
+
+---
+
+**LogCascadeNet**  
+**Description:**  
+Analyzes logs to trace cascading failure events, recurring chains, and dependency-triggered anomalies.
+
+```markdown
+# LogCascadeNet - Cascading Pattern Analyzer
+
+LogCascadeNet surfaces log sequences where one event consistently triggers a chain of failures or warnings.
+
+## Features
+- Cascade tracking engine  
+- Trigger sequence mapping  
+- CLI-based exploration
+
+## Usage
+```bash
+git clone https://github.com/your-username/LogCascadeNet.git
+cd LogCascadeNet
+python analyze.py
